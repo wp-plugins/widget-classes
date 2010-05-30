@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Widget Classes
-Plugin URI: http://aizatto.com
+Plugin URI: http://blog.aizatto.com/widget-classes
 Description: Allows you to add classes to widgets
 Author: Ezwan Aizat Bin Abdullah Faiz
 Author URI: http://aizatto.com
 Version: 0.1
-License: MIT
+License: LGPLv2
 */
 
 // wp-includes/widgets.php:273
